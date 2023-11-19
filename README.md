@@ -8,15 +8,12 @@ This project provides a feature-rich table component built with React and Chakra
 
 2. Install the dependencies:
 
-\`\`\`bash
-npm install
-\`\`\`
+```npm install```
 
 3. Start the application:
 
-\`\`\`bash
-npm start
-\`\`\`
+```npm start```
+
 
 ## Features
 
