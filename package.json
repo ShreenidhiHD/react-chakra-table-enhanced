@@ -1,6 +1,11 @@
 {
   "name": "react-chakra-table-enhanced",
   "version": "0.1.0",
+  "description": "An enhanced Chakra UI table for React with features like dynamic pagination, per-column/global search, and customizable rows.",
+  "author": {
+    "name": "Shreenidhi H D",
+    "email": "Shreenidhihaagalagodu@gmail.com"
+  },
   "private": true,
   "dependencies": {
     "@chakra-ui/icons": "^2.1.1",
