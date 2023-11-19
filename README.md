@@ -31,7 +31,7 @@ The `DynamicTable` component includes the following features:
 
 In `Table.js`, we pass the data and configuration to the `DynamicTable` component:
 
-\`\`\`jsx
+```
 <DynamicTable
     data={data}
     columns={columns}
@@ -46,8 +46,7 @@ In `Table.js`, we pass the data and configuration to the `DynamicTable` componen
     textcolor="white"
     enableSerialNumbers={false}
 />
-\`\`\`
-
+```
 
 Here's what each prop does:
 
